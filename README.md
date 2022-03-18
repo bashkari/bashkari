@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bashkari
+- 👋 Hi, I’m @bashkari.
 PhD in Software Engineering with Focus on Data Analysis.
 I am an experienced Data Analyzer and Python Programmer, mostly focused on applied data mining research and application development. 
 I have several publications in Data Mining related topics. 
