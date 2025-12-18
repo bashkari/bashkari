@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @bashkari.
-PhD in Software Engineering with Focus on Data Analysis.
-I am an experienced Data Analyzer and Python Programmer, mostly focused on applied data mining research and application development. 
-I have several publications in Data Mining related topics. 
-I co-founded E-Learning Dept. of Zand Institute of higher education. I currently work in Zand Institute of Higher Education as manager of E-Learning Dept. and manager of postgraduate program. 
-I am also the co-founder and head programmer of startup project fibo724.com, which is an investment assistant for traders.
-I am open to part/full time remote jobs in development or research.
+PhD in Software Engineering | Applied Data Mining & AI Development
+
+I specialize in transforming data into actionable insights and production-ready applications, with a research focus on data mining and machine learning. My work bridges academic rigor with practical software engineering, resulting in several peer-reviewed publications.
+
+My technical expertise lies in Python, data analysis, and the full stack of machine learning—from research and prototyping to deploying scalable solutions. I co-founded the E-Learning Department at Zand Institute, demonstrating my ability to lead and implement complex technical projects from concept to delivery.
+
+Currently open to remote opportunities in:
+• Data Science & Machine Learning Engineering
+• Research Scientist / Applied Research roles
+• Backend/Python development with a data focus
+• Part-time or full-time engagements
